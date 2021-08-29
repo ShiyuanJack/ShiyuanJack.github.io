@@ -61,34 +61,38 @@ Implemented DNF, ARPG product relevant data analysis by Multivariate Causal Mode
 
 CERTIFICATE & AWARD 
 ======
-* Coursera:Stanford Cryptography I  
-Stanford Machine Learning	IBM Applied AI 
-HKUST Matrix Algebra for Engineers
+* Coursera:
+   * Stanford Cryptography I  
+   * Stanford Machine Learning
+   * IBM Applied AI 
+   * HKUST Matrix Algebra for Engineers
 
-* MOOC: Peking University - Artificial intelligence and the information society
-Huazhong University of Science and Technology - Principles of Computer Composition
+* MOOC: 
+    * Peking University - Artificial intelligence and the information society
+    * Huazhong University of Science and Technology - Principles of Computer Composition
 
 
 * YouTube: Peking University - Blockchain technology and applications
  
 
 
-* Selected award: China College Students’ ‘Internet+’ Innovation and Entrepreneurship Competition – First prize
-The Challenge Cup – Second prize
+* Selected award:
+    *  China College Students’ ‘Internet+’ Innovation and Entrepreneurship Competition – First prize
+    *  The Challenge Cup – Second prize
 
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+#Talks
+#======
+ # <ul>{% for post in site.talks %}
+  #  {% include archive-single-talk-cv.html %}
+  #{% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Teaching
+#======
+ # <ul>{% for post in site.teaching %}
+  #  {% include archive-single-cv.html %}
+  #{% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
