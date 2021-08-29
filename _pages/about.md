@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ABOUT ME BACKGROUND"
+title: "ABOUT ME"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,22 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Shiyuan Xu is an undergraduate student at
-the North China University of Technology.
-His research interests include post-quantum
-cryptography, security, and privacy in
-vehicle ad hoc networks. He has published
-several articles in refereed international
-conferences and journals.
 
+Background
+======
+Mr. Xu is an undergraduate student in North China University of Technology. He is studying B.E. in information security with expected graduate in 2022. After graduation, he will pursuing P.h.D degree in the future.  He was a research assistant with Dr. Gao in the The Hong Kong Polytechnic University within two months and interned as a summer research assiatant with Dr. Ravi in The University of Hong Kong in 2021. During his bachelor's study, he has published many academic conference and journal papers.
 
 Research Interests
 ======
-My research interests include post-quantum
-cryptography, security, and privacy in
-vehicle ad hoc networks. He has published
-several articles in refereed international
-conferences and journals.
+Broadly speaking, I am interested in information security and applied cryptography. Specifically, my current research mainly focus on signature protocols, post-quantum cryptography, security and privacy in Internet of Things( such as VANET architecture, EMR data, etc.) and also blockchain security.
 
 News
 ======
