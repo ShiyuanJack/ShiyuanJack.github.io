@@ -5,17 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-#{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-#{% endif %}
-
-#{% include base_path %}
-
-#{% for post in site.publications reversed %}
- # {% include archive-single.html %}
-#{% endfor %}
-
-
 Selected list of Publications
 ======
 1.	Xue Chen†, Shiyuan Xu†*, et.al, " LLRSB: Privacy-Preserving Infection Control Scheme for COVID-19 Through Lattice-based Linkable Ring Signature in Blockchain," IEEE Transaction on Services Computing. Under review.
@@ -38,20 +27,20 @@ Selected list of Publications
 Selected list of Computer Software Copyrights
 ======
 
-	An Integrated Management System of Information Security Service
-	A Big Data-based Financial Transaction Data Analysis and Processing System
-	A Cloud Computing-based Data Analysis System
-	A Blockchain-based Public Information Security Audit Platform
-	A Blockchain-based Medical Materials Transaction Management System
-	A Blockchain-based Smart Home Equipment Identity Control System
+* An Integrated Management System of Information Security Service
+* A Big Data-based Financial Transaction Data Analysis and Processing System
+* A Cloud Computing-based Data Analysis System
+* A Blockchain-based Public Information Security Audit Platform
+* A Blockchain-based Medical Materials Transaction Management System
+* A Blockchain-based Smart Home Equipment Identity Control System
   
   
   
 Chinese Patents
 ======
-	An Electronic Machine Learning Device. Patent for Utility Model, ZL 202020040543.7
-	Blockchain-based Privacy Protection scheme for Charging Piles of Smart Vehicles. Submitted to Invention Patent.
-	Privacy Protection scheme of Logging System based on Post-quantum Blockchain over Lattice. Submitted to Invention Patent.
+* An Electronic Machine Learning Device. Patent for Utility Model, ZL 202020040543.7
+* Blockchain-based Privacy Protection scheme for Charging Piles of Smart Vehicles. Submitted to Invention Patent.
+* Privacy Protection scheme of Logging System based on Post-quantum Blockchain over Lattice. Submitted to Invention Patent.
 
 
 
