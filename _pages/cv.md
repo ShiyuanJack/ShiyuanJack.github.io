@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CURRICULUM VITAE"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* North China University of Technology    
+* Bachelor of Engineering in Information Security (expected) GPA: 89.85/100, Class Ranking: 3/66 - NCUT Outstanding Student 2019, 2020
+* The University of Hong Kong
+* Summer Institute: Fintech: AI, Blockchain, Computational Finance (FTAI2020), Supervised by Prof. Michael Chau
+* The Hong Kong Polytechnic University                                                         May 2021-July 2021
+* Research Discussion and Assistant: Cryptography, Signature, Security and Zero-knowledge, Supervised by Dr. Shang Gao
+* The University of Hong Kong                                                                 July 2021-Aug. 2021   
+* Research Internship and Assistant: Quantum Information and Quantum Cryptography, Supervised by Prof. Ravi Ramanathan 
+* 
 
 Work experience
 ======
