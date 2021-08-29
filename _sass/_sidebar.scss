@@ -25,6 +25,50 @@
   }
 
 
+    .image-div {
+    width: 300px;
+    height: 300px;
+    position: relative;
+  }
+  .image-div img {
+    width: 300px;
+    height: 300px;
+  }
+  .image-mask {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    bottom: 0;
+    background: rgba(101, 101, 101, 0.6);
+    color: #ffffff;
+    opacity: 0;
+    line-height: 300px;
+  }
+  .image-div:hover .image-mask {
+    opacity: 1;
+    cursor: default;
+  }
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
   @include breakpoint($x-large) {
     padding-right: 0;
   }
