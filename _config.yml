@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xu Shiyuan's Homepage"
+title                    : "XU Shiyuan's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xu Shiyuan"
+  name             : "XU Shiyuan"
   avatar           : "profile.png"
   bio              : "IEEE Student Member"
   location         : "North China University of Technology"
