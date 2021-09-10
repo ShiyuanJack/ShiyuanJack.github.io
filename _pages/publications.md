@@ -65,7 +65,7 @@ Selected list of Computer Software Copyrights
 
   
   
-*Selected list of Patents
+Selected list of Patents
 ======
 - [x] An Electronic Machine Learning Device. Patent for Utility Model, ZL 202020040543.7
 
