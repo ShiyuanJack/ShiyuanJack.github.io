@@ -11,38 +11,39 @@ redirect_from:
 
 Education
 ======
-B. Eng. in Information Security, North China University of Technology, China, 2022(expected)
+B. Eng. in Information Security, **North China University of Technology**, China, 2022(expected)
                                                                  
-Summer Institute: Fintech: AI, Blockchain, Computational Finance, The University of Hong Kong, HK, 2020
+Summer Institute: Fintech: AI, Blockchain, Computational Finance, **The University of Hong Kong**, HK, 2020
 
 
 RESEARCH ASSISTANT
 ======
-Privacy Protection, Blockchain Security and Post-quantum Cryptography, Supervised by Prof. Yunhua He, North China University of Technology, China, 2020-2021
+Privacy Protection, Blockchain Security and Post-quantum Cryptography, Supervised by Prof. Yunhua He, **North China University of Technology**, China, 2020-2021
 
-Cryptography, Signature, Security and Zero-knowledge, Supervised by Dr. Shang Gao, The Hong Kong Polytechnic University, HK, 2021
+Cryptography, Signature, Security and Zero-knowledge, Supervised by Dr. Shang Gao, **The Hong Kong Polytechnic University**, HK, 2021
 
-Quantum Information, Bell Theorem and Quantum Cryptography, Supervised by Prof. Ravi Ramanathan, The University of Hong Kong, HK, 2021
+Quantum Information, Bell Theorem and Quantum Cryptography, Supervised by Prof. Ravi Ramanathan, **The University of Hong Kong**, HK, 2021
 
 RESEARCH & PROJECT
 ======
-Cryptographic Protocol Teaching and Simulation System, BUPT&NCUT, China, 2021
-Advisor: Prof. Xiubo Chen & Dr. Gang Xu   
-Secure Log Storage on Blockchain & Distributed Data Privacy Protection, NCUT, China, 2021
-Advisor: Dr. Gang Xu
-A Blockchain-based Emergency Materials Management Platform, NCUT, China, 2020
-Advisor: Prof. Yunhua He
-Study on Voice Recognition Technology based on Artificial Intelligence, NCUT, China, 2020
-Advisor: Prof. Yulong Han
-Researched on Vehicle Trajectory Prediction Methodology, NCUT, China, 2019
-Advisor: Dr. Chao Wang
-Provincial College Students’ Innovative Entrepreneurial Training Plan Program, China, 2019-2021
-	Researched on the Prediction of Vehicle Node Behavior                                                      Researched on the Industrial Sparse Protocols Reverse Parsing System through Machine Learning	
-Researched on the Anonymous Electric Vehicle Charge Systems based on Blockchain
+Cryptographic Protocol Teaching and Simulation System, BUPT&NCUT, China, 2021  
+  &nbsp;Advisor: Prof. Xiubo Chen & Dr. Gang Xu  
+  Secure Log Storage on Blockchain & Distributed Data Privacy Protection, NCUT, China, 2021  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Dr. Gang Xu  
+  A Blockchain-based Emergency Materials Management Platform, NCUT, China, 2020  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Prof. Yunhua He  
+  Study on Voice Recognition Technology based on Artificial Intelligence, NCUT, China, 2020  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Prof. Yulong Han  
+  Researched on Vehicle Trajectory Prediction Methodology, NCUT, China, 2019
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Dr. Chao Wang  
+  Provincial College Students’ Innovative Entrepreneurial Training Plan Program, China, 2019-2021  
+  Researched on the Prediction of Vehicle Node Behavior                                                        
+  Researched on the Industrial Sparse Protocols Reverse Parsing System through Machine Learning  
+  Researched on the Anonymous Electric Vehicle Charge Systems based on Blockchain
 
 Work/Internship experience
 ======
-Tencent, Beijing, China, June 2020-Sept. 2020
+**Tencent**, Beijing, China, June 2020-Sept. 2020  
 Data Product Manager
 
 
