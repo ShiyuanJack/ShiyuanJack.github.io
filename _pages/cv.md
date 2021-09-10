@@ -34,7 +34,7 @@ Cryptographic Protocol Teaching and Simulation System, BUPT&NCUT, China, 2021
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Prof. Yunhua He  
   Study on Voice Recognition Technology based on Artificial Intelligence, NCUT, China, 2020  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Prof. Yulong Han  
-  Researched on Vehicle Trajectory Prediction Methodology, NCUT, China, 2019
+  Researched on Vehicle Trajectory Prediction Methodology, NCUT, China, 2019  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Dr. Chao Wang  
   Provincial College Students’ Innovative Entrepreneurial Training Plan Program, China, 2019-2021  
   Researched on the Prediction of Vehicle Node Behavior                                                        
