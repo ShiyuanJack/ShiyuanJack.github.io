@@ -18,11 +18,17 @@ Education
 
 RESEARCH ASSISTANT
 ======
-* Privacy Protection, Blockchain Security and Post-quantum Cryptography, Supervised by Prof. Yunhua He, **North China University of Technology**, China, 2020-2021
+* Privacy Protection, Blockchain Security and Post-quantum Cryptography, **North China University of Technology**, China, 2020-2021
 
-* Cryptography, Signature, Security and Zero-knowledge, Supervised by Dr. Shang Gao, **The Hong Kong Polytechnic University**, HK, 2021
+  Supervised by Prof. Yunhua He.
 
-* Quantum Information, Bell Theorem and Quantum Cryptography, Supervised by Prof. Ravi Ramanathan, **The University of Hong Kong**, HK, 2021
+* Cryptography, Signature, Security and Zero-knowledge, **The Hong Kong Polytechnic University**, HK, 2021
+
+  Supervised by Dr. Shang Gao.
+
+* Quantum Information, Bell Theorem and Quantum Cryptography, **The University of Hong Kong**, HK, 2021
+
+  Supervised by Prof. Ravi Ramanathan.
 
 RESEARCH & PROJECT
 ======
