@@ -42,15 +42,15 @@ RESEARCH & PROJECT
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Prof. Yulong Han  
 *  Researched on Vehicle Trajectory Prediction Methodology, NCUT, China, 2019  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: Dr. Chao Wang  
- * Provincial College Students’ Innovative Entrepreneurial Training Plan Program, China, 2019-2021  
- * Researched on the Prediction of Vehicle Node Behavior                                                        
- * Researched on the Industrial Sparse Protocols Reverse Parsing System through Machine Learning  
- * Researched on the Anonymous Electric Vehicle Charge Systems based on Blockchain
+* Provincial College Students’ Innovative Entrepreneurial Training Plan Program, China, 2019-2021  
+  *   Researched on the Prediction of Vehicle Node Behavior                                                        
+  *   Researched on the Industrial Sparse Protocols Reverse Parsing System through Machine Learning  
+  *   Researched on the Anonymous Electric Vehicle Charge Systems based on Blockchain
 
 Work/Internship experience
 ======
-*  **Tencent**, Beijing, China, June 2020-Sept. 2020  
-*  Data Product Manager
+  *  **Tencent**, Beijing, China, June 2020-Sept. 2020  
+      *    Data Product Manager
 
 
 CERTIFICATE & AWARD 
@@ -62,8 +62,8 @@ CERTIFICATE & AWARD
    * HKUST Matrix Algebra for Engineers
 
 * MOOC: 
-    * Peking University - Artificial intelligence and the information society
-    * Huazhong University of Science and Technology - Principles of Computer Composition
+    *   Peking University - Artificial intelligence and the information society
+    *   Huazhong University of Science and Technology - Principles of Computer Composition
 
 
 * YouTube: Peking University - Blockchain technology and applications
