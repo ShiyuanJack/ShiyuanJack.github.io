@@ -43,8 +43,8 @@ RESEARCH & PROJECT
 
 Work/Internship experience
 ======
-**Tencent**, Beijing, China, June 2020-Sept. 2020  
-Data Product Manager
+*  **Tencent**, Beijing, China, June 2020-Sept. 2020  
+*  Data Product Manager
 
 
 CERTIFICATE & AWARD 
