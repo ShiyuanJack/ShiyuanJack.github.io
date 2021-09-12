@@ -47,7 +47,7 @@ RESEARCH & PROJECT
   *   Researched on the Industrial Sparse Protocols Reverse Parsing System through Machine Learning  
   *   Researched on the Anonymous Electric Vehicle Charge Systems based on Blockchain
 
-Work/Internship experience
+Work/Internship Experience
 ======
   *  **Tencent**, Beijing, China, June 2020-Sept. 2020  
       *    Data Product Manager
