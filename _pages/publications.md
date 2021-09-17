@@ -41,6 +41,10 @@ Anti-Quantum Attribute-based Signature for Secure EMRs Sharing Scheme with Block
 
 Submitted to *IEEE Wireless Communications & Networking Conference(WCNC)*, 2022
 <br><br><br>
+A Lightweight Encryption Scheme for Secure Message Transmission in VANETs with Blockchain
+
+Submitted to *IEEE Wireless Communications & Networking Conference(WCNC)*, 2022
+
 EDPPA: An efficient distance-based privacy preserving authentication protocol in VANET  
 
 Submitted to *Peer-to-Peer Networking and Applications*, 2021
